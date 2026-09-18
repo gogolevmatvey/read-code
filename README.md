@@ -4,7 +4,7 @@
 
 [Открыть демо](https://gogolevmatvey.github.io/read-code/)
 
-![Главная страница интернет-магазина «Читай-код»](docs/images/homepage.png)
+![Главная страница интернет-магазина «Читай-код»](docs/images/readme-screenshot.png)
 
 ## О проекте
 
